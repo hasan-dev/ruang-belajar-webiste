@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "landingpage1234.000webhostapp.com/static/js/main.8a42937f.chunk.js",
+    "main.js.map": "landingpage1234.000webhostapp.com/static/js/main.8a42937f.chunk.js.map",
+    "runtime-main.js": "landingpage1234.000webhostapp.com/static/js/runtime-main.655d34c8.js",
+    "runtime-main.js.map": "landingpage1234.000webhostapp.com/static/js/runtime-main.655d34c8.js.map",
+    "static/css/2.11c455a6.chunk.css": "landingpage1234.000webhostapp.com/static/css/2.11c455a6.chunk.css",
+    "static/js/2.7334db5e.chunk.js": "landingpage1234.000webhostapp.com/static/js/2.7334db5e.chunk.js",
+    "static/js/2.7334db5e.chunk.js.map": "landingpage1234.000webhostapp.com/static/js/2.7334db5e.chunk.js.map",
+    "index.html": "landingpage1234.000webhostapp.com/index.html",
+    "precache-manifest.f2548fc55709ca1b347902010491a6da.js": "landingpage1234.000webhostapp.com/precache-manifest.f2548fc55709ca1b347902010491a6da.js",
+    "service-worker.js": "landingpage1234.000webhostapp.com/service-worker.js",
+    "static/css/2.11c455a6.chunk.css.map": "landingpage1234.000webhostapp.com/static/css/2.11c455a6.chunk.css.map",
+    "static/media/all.min.css": "landingpage1234.000webhostapp.com/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/team-5-472x709.jpg": "landingpage1234.000webhostapp.com/static/media/team-5-472x709.446fef6f.jpg",
+    "static/media/team-6-472x709.jpg": "landingpage1234.000webhostapp.com/static/media/team-6-472x709.77e9ec3c.jpg",
+    "static/media/team-7-472x709.jpg": "landingpage1234.000webhostapp.com/static/media/team-7-472x709.864ca0d3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.655d34c8.js",
+    "static/css/2.11c455a6.chunk.css",
+    "static/js/2.7334db5e.chunk.js",
+    "static/js/main.8a42937f.chunk.js"
+  ]
+}
